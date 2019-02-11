@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Cap250_fromDB
+namespace Cap250_fromDB_Core01
 {
     using System;
     using System.Collections.Generic;
